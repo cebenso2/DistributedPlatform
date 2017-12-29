@@ -1,0 +1,1 @@
+{"VertexState":{"Value":"0.0015","OutVertices":["test","thing"],"IncomingMessages":[],"Active":true},"Messages":[{"Value":"test","DestVertex":"0.0015"},{"Value":"thing","DestVertex":"0.0015"}]}
